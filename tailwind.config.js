@@ -7,7 +7,7 @@ module.exports = {
   ],
   theme: {
     colors: {
-      tapped: '#3A84C6',
+      tapped: '#38B6FF',
     },
     extend: {
       fontFamily: {

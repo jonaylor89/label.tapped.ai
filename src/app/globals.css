@@ -27,15 +27,17 @@ body {
     )
     rgb(var(--background-start-rgb)); */
   /* color: 'white'; */
-  background-color: #3A84C6;
+  background-color: #38B6FF;
 }
 
 h1 {
   font-family: 'Manrope', sans-serif;
+  color: 'white';
 }
 
 h2 {
   font-family: 'Manrope', sans-serif;
+  color: 'white';
 }
 
 span {
