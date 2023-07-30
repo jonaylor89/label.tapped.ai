@@ -39,6 +39,8 @@ export default function RootLayout({
 
         We're looking for artists who are passionate about their music and who are willing to work hard. If you're ready to take your career to the next level, then apply today!"
       />
+      <meta property="og:url" content="https://label.tapped.ai/" />
+      <meta property="og:image" content="https://label.tapped.ai/og.png" />
       <body className={inter.className}>{children}</body>
     </html>
   )
