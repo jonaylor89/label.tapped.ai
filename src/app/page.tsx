@@ -27,11 +27,11 @@ export default function Home() {
         <h1
           className="text-5xl font-bold text-center text-white lg:text-8xl"
         >welcome to the first ever <span className="underline decoration-pink-500/30">
-          AI record label</span></h1>
+          AI record label.</span></h1>
         <div className="pt-2 pb-2"></div>
         <h2
           className="text-2xl font-thin text-center text-white lg:text-4xl"
-        >let&apos;s destroy traditional record labels together</h2>
+        >let&apos;s destroy traditional record labels together....</h2>
         <a
           id="apply-here"
           className="px-4 py-2 mt-8 text-lg font-bold rounded-lg hover:scale-105 transform transition-all duration-200 ease-in-out shadow-lg"
