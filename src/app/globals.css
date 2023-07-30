@@ -41,7 +41,9 @@ h2 {
 }
 
 span {
-  text-decoration-color: #ec4899;
+  text-decoration-color: red;
+  /* text-decoration-color: #ec4899; */
+  text-decoration-style: wavy;
 }
 
 #by-tapped {
