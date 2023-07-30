@@ -1,6 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@800&family=Nunito&display=swap');
 
 :root {
   --foreground-rgb: 0, 0, 0;
@@ -18,10 +20,38 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
+  /* background: linear-gradient(
       to bottom,
       transparent,
       rgb(var(--background-end-rgb))
     )
-    rgb(var(--background-start-rgb));
+    rgb(var(--background-start-rgb)); */
+  /* color: 'white'; */
+  background-color: #3A84C6;
+}
+
+h1 {
+  font-family: 'Manrope', sans-serif;
+}
+
+h2 {
+  font-family: 'Manrope', sans-serif;
+}
+
+span {
+  text-decoration-color: #ec4899;
+}
+
+#by-tapped {
+  font-family: 'Nunito', sans-serif;
+  padding: 0.7rem;
+  color: #4A5E68;
+  background-color: #fff;
+}
+
+#apply-here {
+  font-family: 'Nunito', sans-serif;
+  padding: 0.7rem;
+  color: #fff;
+  background-color: #000;
 }
