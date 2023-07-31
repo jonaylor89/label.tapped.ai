@@ -16,28 +16,40 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <meta name="keywords" content="AI record label, music, artificial intelligence, new music, discover music, up-and-coming artists" />
+      <meta name="keywords" content="AI record label
+AI music label
+music industry technology
+music industry disruption
+music industry innovations
+future of music industry
+emerging music technology
+AI music startups
+TappedAI record label
+artist tools
+artist resources
+data-driven music strategy
+online music marketing
+online music promotion
+music business future
+empowering artists with AI
+virtual team for musicians
+futuristic record labels
+" />
       <meta
         name="description"
-        content="Are you an up-and-coming artist who wants to take your music to the next level? Then you need to apply to the world's first AI record label! Our AI-powered algorithms will help you get discovered by the right people, and we'll give you the tools and resources you need to succeed.
-
-        We're looking for artists who are passionate about their music and who are willing to work hard. If you're ready to take your career to the next level, then apply today!"
+        content="TappedAI is poised to disrupt the music business with the first ever AI record label built to catapult independent artists to success."
       />
       <meta property="og:site_name" content="label.tapped.ai" />
       <meta
         property="og:description"
-        content="Are you an up-and-coming artist who wants to take your music to the next level? Then you need to apply to the world's first AI record label! Our AI-powered algorithms will help you get discovered by the right people, and we'll give you the tools and resources you need to succeed.
-
-        We're looking for artists who are passionate about their music and who are willing to work hard. If you're ready to take your career to the next level, then apply today!"
+        content="TappedAI is poised to disrupt the music business with the first ever AI record label built to catapult independent artists to success."
       />
-      <meta property="og:title" content="The First Ever AI Record Label for Up-and-Coming Artists" />
+      <meta property="og:title" content="TappedAI is the first ever AI record label to destroy major labels " />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:title" content="The First Ever AI Record Label for Up-and-Coming Artists" />
+      <meta name="twitter:title" content="TappedAI is the first ever AI record label to destroy major labels " />
       <meta
         name="twitter:description"
-        content="Are you an up-and-coming artist who wants to take your music to the next level? Then you need to apply to the world's first AI record label! Our AI-powered algorithms will help you get discovered by the right people, and we'll give you the tools and resources you need to succeed.
-
-        We're looking for artists who are passionate about their music and who are willing to work hard. If you're ready to take your career to the next level, then apply today!"
+        content="TappedAI is poised to disrupt the music business with the first ever AI record label built to catapult independent artists to success."
       />
       <meta property="og:url" content="https://label.tapped.ai/" />
       <meta property="og:image" content="https://label.tapped.ai/og.png" />
