@@ -1,6 +1,7 @@
 import './globals.css'
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
+import { Analytics } from '@vercel/analytics/react';
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -53,7 +54,10 @@ futuristic record labels
       />
       <meta property="og:url" content="https://label.tapped.ai/" />
       <meta property="og:image" content="https://label.tapped.ai/og.png" />
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>
+        {children}
+        <Analytics />
+      </body>
     </html>
   )
 }
