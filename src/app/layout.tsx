@@ -6,7 +6,7 @@ import { Analytics } from '@vercel/analytics/react';
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Tapped Records',
+  title: 'Tapped AI',
   description: 'The first ever AI record label. ',
 }
 
